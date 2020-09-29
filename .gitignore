@@ -1,3 +1,42 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gradle
-.idea
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# data files
+*.tar
+*.csv
+
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#.gitignore
+.gradle/*
+.gradle/6.3/vcsMetadata-1/
+.gradle/6.5/vcsMetadata-1/
+#README.md
+build/*
+build/generated/
+build/tmp/
+lib/
+.idea/*
