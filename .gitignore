@@ -40,3 +40,5 @@ build/generated/
 build/tmp/
 lib/
 .idea/*
+
+application-oauth.properties
